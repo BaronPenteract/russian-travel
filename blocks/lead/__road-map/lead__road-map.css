@@ -1,0 +1,11 @@
+.lead__road-map {
+  display: block;
+  width: calc(100% - 4.8%);
+  object-fit: contain;
+  position: absolute;
+  top: 14.67%;
+  left: 2.4%;
+}
+
+/* .lead__road-map:hover {
+} */

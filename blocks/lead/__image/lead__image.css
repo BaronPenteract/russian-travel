@@ -1,0 +1,10 @@
+.lead__image {
+  box-sizing: border-box;
+  margin-bottom: 8px;
+  width: 100%;
+  /* padding: 9.16% 2.4% 26.6% 2.36%; */
+  padding-bottom: 62.5%;
+  position: relative;
+  background: url('../../../images/lead-bg.jpg') center no-repeat;
+  background-size: 100%;
+}
