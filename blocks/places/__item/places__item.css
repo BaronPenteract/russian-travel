@@ -1,0 +1,10 @@
+.places__item {
+  display: grid;
+  grid-template-columns: 46.747% auto;
+  gap: 48px 40px;
+  margin-bottom: 80px;
+}
+
+.places__item:last-child {
+  margin-bottom: 0;
+}

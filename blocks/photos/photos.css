@@ -1,0 +1,8 @@
+.photos {
+  width: 92.5%;
+  margin: 0 auto 92px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: 1fr;
+  gap: 16px;
+}

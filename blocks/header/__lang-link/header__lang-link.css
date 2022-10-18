@@ -1,4 +1,5 @@
 .header__lang-link {
+  display: block;
   margin-left: 18px;
   color: inherit;
   text-decoration: none;

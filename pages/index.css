@@ -1,6 +1,6 @@
 @import url('../vendor/normalize.css');
 /* fonts */
-@import url('../fonts/fonts.css');
+@import url('../vendor/fonts/fonts.css');
 /* root */
 @import url('../blocks/root/root.css');
 /* page */
@@ -13,6 +13,8 @@
 @import url('../blocks/header/__lang/header__lang.css');
 @import url('../blocks/header/__lang-link/header__lang-link.css');
 @import url('../blocks/header/__lang-link/_active/header__lang-link_active.css');
+/* content */
+@import url('../blocks/content/content.css');
 /* lead */
 @import url('../blocks/lead/lead.css');
 @import url('../blocks/lead/__title/lead__title.css');
@@ -20,6 +22,25 @@
 @import url('../blocks/lead/__image/lead__image.css');
 @import url('../blocks/lead/__road-map/lead__road-map.css');
 @import url('../blocks/lead/__caption/lead__caption.css');
+/* intro */
+@import url('../blocks/intro/__outter/intro__outter.css');
+@import url('../blocks/intro/intro.css');
+@import url('../blocks/intro/__title/intro__title.css');
+@import url('../blocks/intro/__text/intro__text.css');
+@import url('../blocks/intro/__list/intro__list.css');
+@import url('../blocks/intro/__list/_accent-count/intro__list_accent-count.css');
+/* photos */
+@import url('../blocks/photos/photos.css');
+@import url('../blocks/photos/__item/photo__item.css');
+/* places */
+@import url('../blocks/places/places.css');
+@import url('../blocks/places/__item/places__item.css');
+@import url('../blocks/places/__title/places__title.css');
+@import url('../blocks/places/__website/places__website.css');
+@import url('../blocks/places/__url-heading/places__url-heading.css');
+@import url('../blocks/places/__link/places__link.css');
+@import url('../blocks/places/__image/places__image.css');
+@import url('../blocks/places/__paragraph/places__paragraph.css');
 
 
 * {outline: 1px solid red;}

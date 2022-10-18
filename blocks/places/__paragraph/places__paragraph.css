@@ -1,0 +1,11 @@
+.places__paragraph {
+  margin: 0 0 26px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.611;
+  color: inherit;
+}
+
+.places__paragraph:last-of-type {
+  margin-bottom: 0;
+}
