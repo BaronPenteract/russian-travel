@@ -1,0 +1,11 @@
+@keyframes scale-bg {
+  0% {
+    background-size: 100%;
+  }
+  100% {
+    background-size: 110%;
+  }
+}
+.scale-bg {
+  animation: scale-bg 20s ease-out forwards;
+}
