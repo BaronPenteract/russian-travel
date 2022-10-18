@@ -5,3 +5,19 @@
   line-height: 1.055;
   color: inherit;
 }
+
+@media screen and (max-width: 878px) {
+  .places__title {
+    font-size: 42px;
+    line-height: 1.095;
+  }
+}
+
+@media screen and (max-width: 545px) {
+  .places__title {
+    width: 90%;
+    margin: 0 auto;
+    font-size: 32px;
+    line-height: 1.093;
+  }
+}
