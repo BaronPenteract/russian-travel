@@ -3,3 +3,9 @@
   margin: 0 auto;
   padding: 28px 0 24px;
 }
+
+@media screen and (max-width: 767px) {
+  .page {
+    padding-top: 16px;
+  }
+}

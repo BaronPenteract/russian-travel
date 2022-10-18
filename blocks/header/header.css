@@ -2,6 +2,25 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  max-width: 92.5%;
+  width: 92.5%;
   margin: 0 auto 56px;
+}
+
+@media screen and (max-width: 1024px) {
+  .header {
+    width: 90.625%;
+    margin-bottom: 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    width: 93.75%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header {
+    width: 90%;
+  }
 }

@@ -1,9 +1,9 @@
 @keyframes scale-bg {
   0% {
-    background-size: 100%;
+    background-size: 110%;
   }
   100% {
-    background-size: 110%;
+    background-size: 100%;
   }
 }
 .scale-bg {
