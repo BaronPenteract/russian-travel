@@ -1,0 +1,9 @@
+.cover {
+width: 92.5%;
+margin: 0 auto 92px;
+padding: 245px 0;
+background: url('../../images/cover-bg.jpg') center no-repeat;
+background-size: cover;
+position: relative;
+z-index: 0;
+}
