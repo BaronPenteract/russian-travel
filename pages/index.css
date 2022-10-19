@@ -30,10 +30,10 @@
 @import url('../blocks/intro/__title/intro__title.css');
 @import url('../blocks/intro/__text/intro__text.css');
 @import url('../blocks/intro/__list/intro__list.css');
-@import url('../blocks/intro/__list/_accent-count/intro__list_accent-count.css');
+@import url('../blocks/intro/__count/intro__count.css');
 /* photos */
 @import url('../blocks/photos/photos.css');
-@import url('../blocks/photos/__item/photo__item.css');
+@import url('../blocks/photos/__item/photos__item.css');
 /* places */
 @import url('../blocks/places/places.css');
 @import url('../blocks/places/__item/places__item.css');
