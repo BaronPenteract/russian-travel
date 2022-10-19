@@ -1,5 +1,5 @@
 .photos {
-  width: 92.5%;
+  max-width: 92.5%;
   margin: 0 auto 92px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -9,7 +9,7 @@
 
 @media screen and (max-width: 1024px) {
   .photos {
-    width: 90.625%;
+    max-width: 90.625%;
     grid-template-columns: repeat(3, 1fr);
     gap: 14px;
   }
@@ -17,7 +17,7 @@
 
 @media screen and (max-width: 768px) {
   .photos {
-    width: 93.75%;
+    max-width: 93.75%;
     margin-bottom: 88px;
     grid-template-columns: repeat(2, 1fr);
     gap: 16px;
@@ -26,7 +26,7 @@
 
 @media screen and (max-width: 320px) {
   .photos {
-    width: 90%;
+    max-width: 90%;
     margin-bottom: 64px;
     grid-template-columns: 1fr;
     gap: 12px;

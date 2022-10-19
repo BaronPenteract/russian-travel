@@ -6,6 +6,7 @@
     background-size: 100%;
   }
 }
+
 .scale-bg {
   animation: scale-bg 20s ease-out forwards;
 }

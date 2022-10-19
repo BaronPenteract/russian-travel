@@ -1,6 +1,6 @@
 .lead__subtitle {
   margin: 0 0 64px;
-  width: 640px;
+  max-width: 640px;
   font-size: 30px;
   font-weight: 400;
   color: inherit;
@@ -17,7 +17,7 @@
 @media screen and (max-width: 767px) {
   .lead__subtitle {
     margin-bottom: 40px;
-    width: 90%;
+    max-width: 90%;
     font-size: 16px;
     line-height: 1.25;
   }

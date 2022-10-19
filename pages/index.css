@@ -25,8 +25,8 @@
 @import url('../blocks/lead/__road-map/lead__road-map.css');
 @import url('../blocks/lead/__caption/lead__caption.css');
 /* intro */
-@import url('../blocks/intro/__outter/intro__outter.css');
 @import url('../blocks/intro/intro.css');
+@import url('../blocks/intro/__inner/intro__inner.css');
 @import url('../blocks/intro/__title/intro__title.css');
 @import url('../blocks/intro/__text/intro__text.css');
 @import url('../blocks/intro/__list/intro__list.css');
