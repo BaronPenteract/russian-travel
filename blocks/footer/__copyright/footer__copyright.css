@@ -5,3 +5,9 @@
   line-height: 1.285;
   color: inherit;
 }
+
+@media screen and (max-width: 767px) {
+  .footer__copyright {
+    line-height: 1;
+  }
+}

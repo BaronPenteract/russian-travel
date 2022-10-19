@@ -7,3 +7,24 @@ background-size: cover;
 position: relative;
 z-index: 0;
 }
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    width: 100%;
+    padding: 195px 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover {
+    padding: 115px 0;
+    margin-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover {
+    padding: 33px 0;
+    margin-bottom: 64px;
+  }
+}

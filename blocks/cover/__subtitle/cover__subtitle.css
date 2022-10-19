@@ -7,3 +7,11 @@
   color: inherit;
   text-align: center;
 }
+
+@media screen and (max-width: 767px) {
+  .cover__subtitle {
+    width: 90%;
+    font-size: 14px;
+    line-height: 1.142;
+  }
+}

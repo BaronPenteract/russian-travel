@@ -7,3 +7,12 @@
   color: inherit;
   text-align: center;
 }
+
+@media screen and (max-width: 767px) {
+  .cover__title {
+    margin-bottom: 16px;
+    width: 90%;
+    font-size: 32px;
+    line-height: 1.093;
+  }
+}
