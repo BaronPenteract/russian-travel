@@ -6,11 +6,6 @@
   line-height: 1.055;
   color: inherit;
   text-align: center;
-  cursor: pointer;
-}
-
-.cover__title:hover ~ .cover__overlay {
-  opacity: .8;
 }
 
 @media screen and (max-width: 767px) {
